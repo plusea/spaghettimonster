@@ -6,10 +6,10 @@ The spaghettimonster is a tool we developed for playing with wearable technology
 * [Clock Divider's Spaghetti Monster Firmware](https://github.com/clockdiv/Spaghettimonster)
 
 ### LINKS
-* [spaghettimonster intro] (https://www.kobakant.at/DIY/?p=9137)
-* [photos] (https://www.flickr.com/photos/plusea/albums/72157719958295195)
+* [spaghettimonster intro](https://www.kobakant.at/DIY/?p=9137)
+* [photos](https://www.flickr.com/photos/plusea/albums/72157719958295195)
 * workshops that tested the spaghettimonster v1:
-** [sensitive puppetes] (https://www.flickr.com/photos/plusea/albums/72157713930789442)
-** [communicating bodies] ()
+** [sensitive puppetes](https://www.flickr.com/photos/plusea/albums/72157713930789442)
+** [communicating bodies]()
 
-![](photos/spaghettimonster.JPG)
+![](https://live.staticflickr.com/65535/51591568832_4c98903c73_c.jpg>)
